@@ -1,8 +1,13 @@
+/* Desafio: Sistema de Pagamentos
+
+Você foi contratado para criar um sistema que gerencie pagamentos de diferentes tipos de funcionários em uma empresa.
+Existem funcionários que recebem salário fixo e outros que são pagos por hora.*/
+
 package exercicios;
 
-import entities.Funcionario;
-import entities.FuncionarioFixo;
-import entities.FuncionarioPorHora;
+import entities.exercicio2.Funcionario;
+import entities.exercicio2.FuncionarioFixo;
+import entities.exercicio2.FuncionarioPorHora;
 
 import java.util.ArrayList;
 import java.util.List;

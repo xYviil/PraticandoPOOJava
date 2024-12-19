@@ -1,4 +1,4 @@
-package entities;
+package entities.exercicio1;
 
 public abstract class Animal {
 

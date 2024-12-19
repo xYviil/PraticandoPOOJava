@@ -1,4 +1,4 @@
-package entities;
+package entities.exercicio2;
 
 public abstract class Funcionario {
 

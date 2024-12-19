@@ -1,8 +1,13 @@
+/* Desafio: Sistema de Biblioteca
+
+Você foi encarregado de desenvolver um sistema simples para gerenciar uma biblioteca. O sistema deve ser
+capaz de gerenciar diferentes tipos de materiais disponíveis, como livros e revistas. */
+
 package exercicios;
 
-import entities.Livro;
-import entities.MaterialBiblioteca;
-import entities.Revista;
+import entities.exercicio3.Livro;
+import entities.exercicio3.MaterialBiblioteca;
+import entities.exercicio3.Revista;
 
 import java.util.ArrayList;
 import java.util.List;

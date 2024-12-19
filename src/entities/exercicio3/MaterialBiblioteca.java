@@ -1,4 +1,4 @@
-package entities;
+package entities.exercicio3;
 
 public abstract class MaterialBiblioteca {
 

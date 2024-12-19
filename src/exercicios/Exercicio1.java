@@ -1,9 +1,13 @@
+/* Sistema de Controle de Animais
+Você foi contratado para desenvolver um sistema que gerencia diferentes tipos de animais em um zoológico.
+Os animais possuem algumas características e comportamentos em comum, mas cada espécie tem suas particularidades.*/
+
 package exercicios;
 
-import entities.Animal;
-import entities.Cachorro;
-import entities.Gato;
-import entities.Zoologico;
+import entities.exercicio1.Animal;
+import entities.exercicio1.Cachorro;
+import entities.exercicio1.Gato;
+import entities.exercicio1.Zoologico;
 
 import java.util.ArrayList;
 import java.util.List;

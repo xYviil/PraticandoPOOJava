@@ -1,4 +1,4 @@
-package entities;
+package entities.exercicio2;
 
 public class FuncionarioPorHora extends Funcionario {
 
